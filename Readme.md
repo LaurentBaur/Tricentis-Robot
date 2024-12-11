@@ -25,4 +25,4 @@ Antes de rodar o projeto, certifique-se de que você tem as seguintes ferramenta
 ## Executar os testes:
 Use o comando abaixo para executar os testes:
  
-        robot tests
+        robot testes
